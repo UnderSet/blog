@@ -1,6 +1,3 @@
----
-title: ...welcome?
----
 
 Uh...hi, welcome to my blog.
 

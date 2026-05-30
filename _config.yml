@@ -1,4 +1,10 @@
 title: UnderSet's thought dump
 description: I let my thoughts run wild(er) here.
 author: UnderSet
-theme: minima
+remote_theme: pages-themes/primer@v0.6.0
+paginate: 5
+paginate_path: "/page:num/"
+
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+- jekyll-paginate
