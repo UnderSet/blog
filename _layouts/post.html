@@ -1,5 +1,7 @@
 ---
 layout: default
 ---
-<h2>{{ page.title }}</h2> <span>{{ page.date | date_to_string }}</span>
+<h2>{{ page.title }}</h2>
 {{ content }}
+
+<i><p>Posted {{ page.date | date_to_string }}</p></i>

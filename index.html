@@ -7,7 +7,7 @@ title: ...welcome?
   <div class="wrapper">
     {% for post in paginator.posts %}
       <article>
-        <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2> <span>{{ post.date | date_to_string }}</span>
+        <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2> <i><span>Posted {{ post.date | date_to_string }}</span></i>
         <!-- I know some of y'all web coders will yell at me for this but honestly i don't care enough -->
         <div class="entry">{{ post.excerpt }}</div>
       </article>
