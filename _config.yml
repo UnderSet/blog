@@ -1,4 +1,6 @@
 title: UnderSet's thought dump
 description: I let my thoughts run wild(er) here.
 author: UnderSet
-baseurl: "/blog"
+remote_theme: pages-themes/primer@v0.6.0
+plugins:
+- jekyll-remote-theme
