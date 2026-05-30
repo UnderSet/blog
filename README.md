@@ -1,4 +1,8 @@
+# UnderSet's blog
 
+Derived from: https://github.com/skills/github-pages
+
+<details><summary>The original GH Skills I used's README...</summary>
 <div align="center">
 
 # 🎉 Congratulations UnderSet! 🎉
@@ -34,4 +38,4 @@
 ---
 
 &copy; 2025 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
-
+</details>
