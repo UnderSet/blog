@@ -5,16 +5,14 @@ title: ...welcome?
 
 <div class="page-content">
   <div class="wrapper">
-    <!-- The Loop -->
     {% for post in paginator.posts %}
       <article>
-        <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
-        <p>{{ post.date | date_to_string }}</p>
+        <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2> <span>{{ post.date | date_to_string }}</span>
+        <!-- I know some of y'all web coders will yell at me for this but honestly i don't care enough -->
         <div class="entry">{{ post.excerpt }}</div>
       </article>
     {% endfor %}
 
-    <!-- The Nav -->
     <div class="pagination">
       {% if paginator.previous_page %}
         <a href="{{ paginator.previous_page_path | relative_url }}">« Newer</a>
