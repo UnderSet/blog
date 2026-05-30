@@ -4,6 +4,7 @@ date: 2026-05-30
 ---
 
 I bit the bullet. I set up a blog on GH Pages.
+<!-- more -->
 
 It's not that complicated, surprisingly!
 

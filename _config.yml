@@ -4,6 +4,7 @@ author: UnderSet
 remote_theme: pages-themes/primer@v0.6.0
 paginate: 5
 paginate_path: "/page:num/"
+excerpt_separator: "<!-- more -->"
 
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
