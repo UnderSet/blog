@@ -23,6 +23,7 @@
       </div>
       {% endif %}
 
+      {% if page.layout == "post" %}
       <script src="https://giscus.app/client.js"
         data-repo="underset/blog"
         data-repo-id="R_kgDOSsCNfg"
@@ -39,6 +40,7 @@
         crossorigin="anonymous"
         async>
       </script>
+      {% endif %}
     </div>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
     <script>anchors.add();</script>
