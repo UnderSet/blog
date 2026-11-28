@@ -21,7 +21,7 @@ Next up, something I've _techinically_ started working since before even May whe
 
 <div style="display: flex; justify-content: center; text-align: center">
   <figure>
-    <img src="{{ /assets/2026/birth-of-a-should-just-been-crackfic.png | relative_url }}" alt="The icons of Blue Archive, Honkai Impact 3rd and a blender.">
+    <img src="{{ "/assets/2026/birth-of-a-should-just-been-crackfic.png" | relative_url }}" alt="The icons of Blue Archive, Honkai Impact 3rd and a blender.">
     <figcaption>Legitimately basically how I came up with that idea.</figcaption>
     <sup><a href="https://www.flaticon.com/free-icons/blender" title="blender icons">Blender icons created by Magnific - Flaticon</a> <i>(required attribution)</i></sup>
   </figure>
@@ -48,7 +48,7 @@ Either way, I *really* gotta get my ass in gear and start writing again...
 
 <div style="display: flex; justify-content: center; text-align: center">
   <figure>
-    <img src="{{ /assets/2026/not-very-good-writing-activity.png | relative_url }}" alt="Image of my activity display (?) on my private Forgejo instance.">
+    <img src="{{ "/assets/2026/not-very-good-writing-activity.png" | relative_url }}" alt="Image of my activity display (?) on my private Forgejo instance.">
     <figcaption>...I mean come on, just look at this almost complete lack of activity. (screenshot from my private Forgejo instance for writing purposes)</figcaption>
   </figure>
   <br>
