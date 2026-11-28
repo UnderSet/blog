@@ -1,11 +1,11 @@
 ---
 title: "What I've Been Doing"
 date: 2026-11-29
-excerpt: >
-  What I've been up to over the...last like six months, holy shit...
 ---
 
 ...So! It's been six months since my last post. As in, lemme rephrase...*holy shit* it's already been six months since my last post. What's happened, you ask? Quite a bit. Uh, you might wanna strap in for a sec.
+
+<!-- more -->
 
 <!-- during the initial drafting of this (2026-11-26 fr) it was actually 179 days since that post lmao, time flies doesn't it? -->
 
@@ -48,7 +48,7 @@ Either way, I *really* gotta get my ass in gear and start writing again...
 
 <div style="display: flex; justify-content: center; text-align: center">
   <figure>
-    <img src="/assets/2026/birth-of-a-should-just-been-crackfic.png" alt="Image of my activity display (?) on my private Forgejo instance.">
+    <img src="/assets/2026/not-very-good-writing-activity.png" alt="Image of my activity display (?) on my private Forgejo instance.">
     <figcaption>...I mean come on, just look at this almost complete lack of activity. (screenshot from my private Forgejo instance for writing purposes)</figcaption>
   </figure>
   <br>
