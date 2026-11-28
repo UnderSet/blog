@@ -1,6 +1,6 @@
 ---
 title: "What I've Been Doing"
-date: 2026-11-29
+date: 2026-11-28
 ---
 
 ...So! It's been six months since my last post. As in, lemme rephrase...*holy shit* it's already been six months since my last post. What's happened, you ask? Quite a bit. Uh, you might wanna strap in for a sec.
